@@ -4,7 +4,6 @@ C:\my_github\Xamarin\xamarin_project_example\AppExample\AppExample\AppExample\bi
 C:\my_github\Xamarin\xamarin_project_example\AppExample\AppExample\AppExample\bin\Debug\netstandard2.0\AppExample.pdb
 C:\my_github\Xamarin\xamarin_project_example\AppExample\AppExample\AppExample\obj\Debug\netstandard2.0\AppExample.csprojAssemblyReference.cache
 C:\my_github\Xamarin\xamarin_project_example\AppExample\AppExample\AppExample\obj\Debug\netstandard2.0\App.xaml.g.cs
-C:\my_github\Xamarin\xamarin_project_example\AppExample\AppExample\AppExample\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
 C:\my_github\Xamarin\xamarin_project_example\AppExample\AppExample\AppExample\obj\Debug\netstandard2.0\AppExample.AssemblyInfoInputs.cache
 C:\my_github\Xamarin\xamarin_project_example\AppExample\AppExample\AppExample\obj\Debug\netstandard2.0\AppExample.AssemblyInfo.cs
 C:\my_github\Xamarin\xamarin_project_example\AppExample\AppExample\AppExample\obj\Debug\netstandard2.0\AppExample.csproj.CoreCompileInputs.cache
@@ -12,3 +11,4 @@ C:\my_github\Xamarin\xamarin_project_example\AppExample\AppExample\AppExample\ob
 C:\my_github\Xamarin\xamarin_project_example\AppExample\AppExample\AppExample\obj\Debug\netstandard2.0\AppExample.dll
 C:\my_github\Xamarin\xamarin_project_example\AppExample\AppExample\AppExample\obj\Debug\netstandard2.0\ref\AppExample.dll
 C:\my_github\Xamarin\xamarin_project_example\AppExample\AppExample\AppExample\obj\Debug\netstandard2.0\AppExample.pdb
+C:\my_github\Xamarin\xamarin_project_example\AppExample\AppExample\AppExample\obj\Debug\netstandard2.0\ParOuImpar.xaml.g.cs

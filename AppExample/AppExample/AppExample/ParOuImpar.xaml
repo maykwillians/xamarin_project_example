@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="AppExample.ParOuImpar">
+    <ContentPage.Content>
+        <StackLayout Margin="16, 16, 16, 16">
+            <Label Text="Calculadora PAR OU ÍMPAR" HorizontalOptions="Center"/>
+            <Entry x:Name="et_valor" Placeholder="Insira o valor"/>
+            <Label x:Name="lb_resultado"/>
+            <Button x:Name="bt_calcular" Text="CALCULAR"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
