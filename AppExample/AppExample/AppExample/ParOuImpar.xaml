@@ -6,11 +6,20 @@
              mc:Ignorable="d"
              x:Class="AppExample.ParOuImpar">
     <ContentPage.Content>
-        <StackLayout Margin="16, 16, 16, 16">
-            <Label Text="Calculadora PAR OU ÍMPAR" HorizontalOptions="Center"/>
-            <Entry x:Name="et_valor" Placeholder="Insira o valor"/>
-            <Label x:Name="lb_resultado"/>
-            <Button x:Name="bt_calcular" Text="CALCULAR"/>
+        <StackLayout Margin="16">
+            <Label Text="LOGIN" HorizontalOptions="Center"/>
+            <StackLayout Orientation="Horizontal" VerticalOptions="Center">
+                <Label Text="Usuário:"/>
+                <Entry x:Name="et_user" Placeholder="User or e-mail"/>
+            </StackLayout>
+            <Label x:Name="lb_user_error" IsVisible="false"/>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Password:"/>
+                <Entry x:Name="et_password" Placeholder="Password"/>
+            </StackLayout>
+            <Label x:Name="lb_password_error" IsVisible="false"/>
+            <Button x:Name="bt_login" Text="LOGIN"/>
+            <Label x:Name="lb_msg"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
